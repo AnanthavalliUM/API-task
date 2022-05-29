@@ -1,0 +1,25 @@
+body{
+  display: flex;
+  justify-content: center;
+  font-family: sans-serif;
+  background-image: linear-gradient(to right, indigo, yellow, violet);
+}
+.container{
+  display: flex;
+  flex-flow: column wrap;
+  align-items:center;
+  text-align: center;
+  margin: 20px;
+  padding: 20px;
+}
+
+  h1 {
+      color: goldenrod;
+      width: 100%;
+  }
+
+#details {
+  margin: 20px;
+  padding: 20px;
+}
+  
